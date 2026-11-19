@@ -26,12 +26,21 @@
 
 # 作者与联系
 
-| 渠道 | 账号 |
+| 渠道 | 账号 / 主页 |
 | :--- | :--- |
-| 小红书 | 阿钟AI论文辅导 |
-| B 站 | 阿钟AI算法 |
+| 小红书 | [阿钟AI论文辅导](https://www.xiaohongshu.com/user/profile/62c1b55c000000001b029751) |
+| B 站 | [阿钟AI算法](https://space.bilibili.com/353234591) |
+| 抖音 | [抖音主页](https://www.douyin.com/user/self?from_tab_name=main) |
 | QQ | 2084339727 |
 | GitHub | [@azhongai666](https://github.com/azhongai666) |
+
+## 微信
+
+<p align="center">
+  <img src="assets/wechat-qr.jpg" width="280" alt="微信二维码：阿钟（浙江 杭州）">
+  <br>
+  <sub>扫码添加微信好友</sub>
+</p>
 
 ---
 
